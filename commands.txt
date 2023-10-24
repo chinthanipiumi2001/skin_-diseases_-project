@@ -1,0 +1,10 @@
+cd env/Scripts/  #go to env folder inside Script folder
+activate   #Activate a environment
+cd ../../ # back to main folder
+jupyter notebook #jupyter notebook opening command
+
+## after do a project how to commit manually to our git repository
+
+git status   #view a git repository status
+git commit -m "your massage" #commit to project info
+git push #push everything to github
