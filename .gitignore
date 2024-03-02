@@ -159,3 +159,11 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 dataset/
+
+website_project-final/
+CYBERFICTION-SOURCE-CODE-main/
+notebook\model
+website_project- final.rar
+website_project- final/
+notebook/.gitignore
+notebook/skin_model.rar
