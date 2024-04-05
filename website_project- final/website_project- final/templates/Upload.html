@@ -1,0 +1,15 @@
+<html>
+<head>
+    <!--<link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}"-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
+</head>
+<body>
+    <form action="/Upload" method="post" enctype="multipart/form-data">
+        <label for="file-upload" class="custom-file-upload">
+            <input id="file-upload" type="file" name="image" accept="image/*">
+            Choose File
+        </label>
+        <input type="submit" value="Upload" class="custom-upload-btn">
+    </form>
+</body>
+</html>

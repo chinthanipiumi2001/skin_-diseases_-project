@@ -160,10 +160,8 @@ cython_debug/
 #.idea/
 dataset/
 
-website_project-final/
 CYBERFICTION-SOURCE-CODE-main/
 notebook\model
 website_project- final.rar
-website_project- final/
 notebook/.gitignore
 notebook/skin_model.rar
