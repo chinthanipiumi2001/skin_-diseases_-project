@@ -1,0 +1,33 @@
+
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+
+
+.custom-file-upload {
+  border: 2px solid #008CBA;
+  color: #008CBA;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 4px;
+  background-color: white;
+  margin: 20px;
+}
+
+.custom-upload-btn {
+  background-color: #008CBA;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
