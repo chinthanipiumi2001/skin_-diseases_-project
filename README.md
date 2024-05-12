@@ -67,3 +67,39 @@ When we upload the related skin disease image, the related disease is shown grap
 After that diseases find the nearest doctor from the user location. Here, if the relevant doctors want to know more than the distance of 100 meters, it can also be checked.
 
 On this page, users can contact their skin disease problems to discuss doctors, Specialists, Testerologists, and dermatologists. Then the user fills out the form and submits it to the doctor online.
+
+## Features
+
+- **Automated Grading**: SmartGrader utilizes the BERT model to automatically grade assignments based on predefined criteria.
+- **Customizable Rubrics**: Instructors can define customizable rubrics tailored to their specific assignment requirements.
+- **Scalability**: SmartGrader is designed to handle a large volume of assignments, making it suitable for classrooms of any size.
+- **Feedback Generation**: The system generates detailed feedback for students based on their performance, aiding in their learning process.
+- **Analytics Dashboard**: Instructors have access to an analytics dashboard that provides insights into student performance and assignment trends.
+
+## Installation
+
+To install SmartGrader with BERT, follow these steps:
+
+1. Install Postgresql
+2. Install Conda
+3. Install Make
+4. Create config.ini and insert gmail keys like this.
+   ```bash
+   [EMAIL]
+   sender_email = {your email without curly brackets}@gmail.com
+   password = {Your password without curly brackets}
+   ```
+5. Clone this repository:
+  ```bash
+  git clone https://github.com/Ravindu-Priyankara/SmartGrader-Web.git
+  cd SmartGrader
+  ```
+6. Create Conda Environment
+  ```bash
+  conda env create -f environment.yml
+  conda activate <environment_name>
+  ```
+7. Install requirements
+  ```python
+  pip install -r requirements.txt
+  ```
