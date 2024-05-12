@@ -37,7 +37,7 @@ Now when login into the website there are signup and login pages combined for th
 
 When entering the username and password correct them here next choose when you are channelling the doctor for their box arrow key. And if you are a new user. When registering, new users need to log in again by giving a username and password to successfully register for appointments with doctors, specialists, and dermatologists.
 
-<img src="/img11.png" width="600" height="300">
+<img src="img/img11.png" width="600" height="300">
 
 After displaying the home page in the Medi help website there are main three tabs on this website. There is a home, about us, and contact us By going to the appointment page itself, we can know the appointment here, and you can click on the Contact Us button and appointment button at the bottom of the home page because the two are linked together.
 
