@@ -6,7 +6,7 @@
 
 The Intelligence system for identifying skin disease prediction training the model, even if we talk about the UI design of the website when the website first opens, we can see the website's welcome page. It is made with 3D model architecture.
 
-<img src="project images/img 1 .png" width="600" height="300"> <br>
+<img src="img/img1.png" width="600" height="300"> <br>
 
 <img src="project images/img 2.png " width="600" height="300"> <br>
 
