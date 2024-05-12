@@ -78,9 +78,7 @@ On this page, users can contact their skin disease problems to discuss doctors, 
 
 ## Installation
 
-To install SmartGrader with BERT, follow these steps:
-
-1. Install Postgresql
+1. Install My SQL
 2. Install Conda
 3. Install Make
 4. Create config.ini and insert gmail keys like this.
@@ -91,7 +89,7 @@ To install SmartGrader with BERT, follow these steps:
    ```
 5. Clone this repository:
   ```bash
-  git clone https://github.com/Ravindu-Priyankara/SmartGrader-Web.git
+  git clone https://github.com/skin_diseases_project/medi_help.git
   cd SmartGrader
   ```
 6. Create Conda Environment
@@ -103,3 +101,6 @@ To install SmartGrader with BERT, follow these steps:
   ```python
   pip install -r requirements.txt
   ```
+## Contact
+
+For questions or feedback, please contact dissanayakepiumi75@gmai.com.
