@@ -68,14 +68,6 @@ After that diseases find the nearest doctor from the user location. Here, if the
 
 On this page, users can contact their skin disease problems to discuss doctors, Specialists, Testerologists, and dermatologists. Then the user fills out the form and submits it to the doctor online.
 
-## Features
-
-- **Automated Grading**: SmartGrader utilizes the BERT model to automatically grade assignments based on predefined criteria.
-- **Customizable Rubrics**: Instructors can define customizable rubrics tailored to their specific assignment requirements.
-- **Scalability**: SmartGrader is designed to handle a large volume of assignments, making it suitable for classrooms of any size.
-- **Feedback Generation**: The system generates detailed feedback for students based on their performance, aiding in their learning process.
-- **Analytics Dashboard**: Instructors have access to an analytics dashboard that provides insights into student performance and assignment trends.
-
 ## Installation
 
 1. Install My SQL
